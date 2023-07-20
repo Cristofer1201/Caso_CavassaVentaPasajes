@@ -1,5 +1,5 @@
 # Caso_CavassaVentaPasajes
-Proyecto Final - Técnicas de programacion orientada a objetos
+Proyecto Final - Técnicas de programacion orientada a objetos.
 Recomendaciones para ejecutar el sistema
 1. Si el IDE detecta problemas en el sistema, es necesario considerar una extension que se encuentra en este mismo repositorio.
 2. Para que el IDE reconozca el archivo jcalendar-1.4 (permite la creación de componentes de tipo fecha), mostrará una ventana emergente donde debe solucionar los problemas.
